@@ -1,0 +1,30 @@
+name: beautiful_timeline
+description: >-
+  A beautiful, fully customizable, responsive timeline widget for Flutter.
+  Supports 10+ visual themes, multiple content types (text, image, icons, progress, custom widgets),
+  smooth animations, and automatic responsive layout for mobile, tablet, and desktop.
+version: 0.1.0
+homepage: https://github.com/tuusuario/beautiful_timeline
+repository: https://github.com/tuusuario/beautiful_timeline
+issue_tracker: https://github.com/tuusuario/beautiful_timeline/issues
+
+environment:
+  sdk: ^3.2.0
+  flutter: '>=3.16.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+platforms:
+  android:
+  ios:
+  web:
+  macos:
+  windows:
+  linux:
